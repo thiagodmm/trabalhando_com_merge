@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Estou testando se o MERGE dará certo.
+=======
+Olá, meu nome é Thiago, sou Webdesigner e Desenvolvedor Front-End.
+Tenho uma filha chamada Sophia.
+Gosto de cerveja e hambúrgers, heavy metal e filmes de terror, quadrinhos e videogames.
+>>>>>>> equipe1
